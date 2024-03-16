@@ -20,10 +20,13 @@ Feedbacks: Establecemos un sistema de retroalimentación para entender mejor las
 
 ## 🔧 Tecnologías Utilizadas
 <!-- Títulos con enlaces -->
+
 <p align="center">
-  <a href="[https://www.java.com/es/]">Java</a> |
-<p align="center">
-  <a href="https://www.python.org/">Python</a> 
+  <a href="https://www.python.org/">Python</a> |
+ <a href="[https://www.java.com/es/]">Java</a> |
+  <a href="https://jupyter.org/">Jupyter-Notebook (Proximamente)</a> |
+  <a href="https://www.mysql.com/">MySQL (Proximamente)</a>
+</p>
     
 ## 📚 Cómo Usarlo exportandolo a Android Studio
 
