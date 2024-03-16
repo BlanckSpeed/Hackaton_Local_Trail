@@ -21,9 +21,11 @@ Feedbacks: Establecemos un sistema de retroalimentación para entender mejor las
 ## 🔧 Tecnologías Utilizadas
 <!-- Títulos con enlaces -->
 <p align="center">
-  <a href="[https://streamlit.io/](https://www.java.com/es/)">Java</a>
+  <a href="[https://streamlit.io/](https://www.java.com/es/)">Java</a> |
+<p align="center">
+  <a href="https://www.python.org/">Python</a> 
     
-## 📚 Cómo Usar
+## 📚 Cómo Usarlo exportandolo a Android Studio
 
 1. Clona el repositorio en tu máquina local:
 
