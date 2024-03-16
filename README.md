@@ -40,6 +40,7 @@ Feedbacks: Establecemos un sistema de retroalimentación para entender mejor las
 
 
 <h2>💡 Contribuciones</h2>
-<p>Las contribuciones son bienvenidas. Si encuentras algún error o tienes mejoras, por favor, abre un issue o envía un pull request.</p>
+<p>Las contribuciones son bienvenidas. Si encuentras algún error o tienes mejoras, por favor, abre un issue o envía un pull request.
+Actualmente seguimos trabajando en un modelo de IA que prediga las sugerencias de compras a usuarios. Y en un scraper que pueda extraer estos datos no solo de los QR sino también de url's relevantes.</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&random=false&width=435&lines=The+perfect+path++for+Local+Business)](https://git.io/typing-svg)
