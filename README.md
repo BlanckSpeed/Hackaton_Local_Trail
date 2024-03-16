@@ -18,14 +18,28 @@ Recordatorios: Implementamos un sistema de recordatorios para los clientes, que 
 
 Feedbacks: Establecemos un sistema de retroalimentación para entender mejor las necesidades y preferencias de los clientes, y así poder mejorar los productos y servicios ofrecidos.
 
-## 🛠️ Tecnologías Utilizadas
-
-//
-
+## 🔧 Tecnologías Utilizadas
+<!-- Títulos con enlaces -->
+<p align="center">
+  <a href="[https://streamlit.io/](https://www.java.com/es/)">Java</a>
+    
 ## 📚 Cómo Usar
 
-//
+1. Clona el repositorio en tu máquina local:
 
-## 🙏 Agradecimientos
+    ```bash
+    git clone https://github.com/AI-School-F5-P2/Aerolinea_equipo_4.git](https://github.com/BlanckSpeed/Hackaton_Local_Trail.git
+
+2. Entra al repositorio
+
+    ```bash
+    cd Hackaton_Local_Trail
+    
+3. Instala Android Stuidio y exportalo dentro de la interfaz
+   
+
+
+<h2>💡 Contribuciones</h2>
+<p>Las contribuciones son bienvenidas. Si encuentras algún error o tienes mejoras, por favor, abre un issue o envía un pull request.</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&random=false&width=435&lines=The+perfect+path++for+Local+Business)](https://git.io/typing-svg)
