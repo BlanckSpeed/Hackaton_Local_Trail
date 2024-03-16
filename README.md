@@ -27,7 +27,16 @@ Feedbacks: Establecemos un sistema de retroalimentación para entender mejor las
   <a href="https://jupyter.org/">Jupyter-Notebook (Proximamente)</a> |
   <a href="https://www.mysql.com/">MySQL (Proximamente)</a>
 </p>
-    
+
+El código que hemos implementa el algoritmo de **K-Nearest Neighbors (KNN)** para crear y entrenar un modelo de clasificación. Este es un algoritmo de aprendizaje supervisado que clasifica los datos nuevos basándose en la similitud de las características con los datos de entrenamiento. Aquí está cómo funciona en tu código:
+
+1. **Carga de Datos**: Utilizas `pandas` para cargar los datos de las tiendas y las compras de los clientes.
+2. **Preprocesamiento**: Codificas las etiquetas categóricas en números con `LabelEncoder`.
+3. **Fusión de DataFrames**: Combinas los datos de las tiendas y las compras de los clientes.
+4. **División de Datos**: Separas las características y las etiquetas, y divides los datos en conjuntos de entrenamiento y prueba.
+5. **Entrenamiento del Modelo**: Instancias `KNeighborsClassifier` con 5 vecinos y entrenas el modelo.
+6. **Predicción**: Realizas una predicción para un nuevo cliente y muestras la ubicación recomendada.
+
 ## 📚 Cómo Usarlo exportandolo a Android Studio
 
 1. Clona el repositorio en tu máquina local:
